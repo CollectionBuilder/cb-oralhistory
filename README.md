@@ -1,4 +1,12 @@
-# cb-oralhistory
+# This has been superseded by the new oralhistoryasdata
+
+This has been superseded by the new oral history as data collection which can be found at [https://github.com/oralhistoryasdata/template](https://github.com/oralhistoryasdata/template). Via the theme.yml file in the _data folder of that repo, you can make the collection look like CB or OHD. There are also more/better functioning features.
+
+
+
+# Old description
+
+## cb-oralhistory
 
 
 **cb-oralhistory** is a mix of [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv) and [Oral History as Data (OHD)](https://github.com/oralhistoryasdata/oralhistoryasdata.github.io). It's meant to serve as a starter repository for those wanting to build oral history collections with CollectionBuilder. 
